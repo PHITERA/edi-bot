@@ -1,2 +1,3 @@
-# edi-bot
-Functions to interact with out EDI-BOT application.
+EDI-BOT
+=
+Functions to interact with our EDI-BOT application.
